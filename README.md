@@ -27,7 +27,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amansingh202&" alt="amansingh202" /></p>
 
 <!-- <img align="center" height=200 src="https://readme-jokes.vercel.app/api" /> -->
-
+<img align="center" height=200 width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh202&include_all_commits=true&layout=compact&theme=vision-friendly-dark&card_width=313" alt="Top Languages" />
 <p align="center">
     <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg">
 </p>
