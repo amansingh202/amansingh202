@@ -24,7 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amansingh202&&layout=compact&theme=vision-friendly-dark&show_icons=true&locale=en" alt="amansingh202" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amansingh202&&layout=compact&theme=vision-friendly-dark" alt="amansingh202" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amansingh202&&layout=compact" alt="amansingh202" /></p>
 
 <!-- <img align="center" height=200 src="https://readme-jokes.vercel.app/api" /> -->
 
