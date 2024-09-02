@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&duration=4000&pause=100&color=149414&center=true&vCenter=true&random=false&width=435&lines=Hola+%F0%9F%91%8B%2C+my+name+is+Aman+Kumar;Data Analyst+and+ML+Engineer;Computer+Science;Passionate+AI+Developer;Always+Loyal;Never+Stop+Learning" alt="Typing SVG" /></a></h1>
 <!-- <h1 align="center">Hi 👋, I'm Aman Kumar</h1> -->
-<h3 align="center">A passionate Machine Learning and NLP engineer from Chicago, USA 🇺🇸</h3>
+<h3 align="center">A passionate Data Analyst, Machine Learning Engineer and Software Developer from Chicago, USA 🇺🇸</h3>
 
 
 <img align="right" alt="code" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
