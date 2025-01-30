@@ -27,7 +27,7 @@
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=amansingh202&theme=vision-friendly-dark"
-            alt="Aman's Github Commit Streak">
+            alt="Aman Github Commit Streak">
 </p>
 
 <!-- <img align="center" height=200 src="https://readme-jokes.vercel.app/api" /> -->
